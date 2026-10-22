@@ -92,3 +92,6 @@ v1.1.0 - 2026/02/17 Siyuan Shen {s.siyuan@wustl.edu}
 - Added `SCSG_GCHP_version = 'GCHP.v13.2.1/stretchNA.output.noDOW.base'` to `config.py` for Aaron's stretched-grid GCHP data.
 - Added `SCSG_GCHP_indir` path in `Estimation_pkg/utils.py`.
 - Added 9 new entries in `inputfiles_table`: `scsg_GCHP_PM25`, `scsg_GCHP_SO4`, `scsg_GCHP_NH4`, `scsg_GCHP_NIT`, `scsg_GCHP_BC`, `scsg_GCHP_POA`, `scsg_GCHP_SOA`, `scsg_GCHP_DST`, `scsg_GCHP_SSLT`.
+
+
+Ivan was here
